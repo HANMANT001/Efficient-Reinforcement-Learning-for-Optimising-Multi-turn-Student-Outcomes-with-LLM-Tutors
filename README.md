@@ -1,20 +1,7 @@
 # Efficient Reinforcement Learning for Optimising Multi-turn Student Outcomes with LLM Tutors
 
 > **Course:** Reinforcement Learning  
-> **Group Name:** DTH  
-> **Repository:** [github.com/divyanshkumar06/rl_paper](https://github.com/divyanshkumar06/rl_paper)
 
----
-
-## Team Details
-
-| Role | Name | Enrollment No. |
-|:-----|:-----|:--------------|
-| **Team Leader** | Divyansh Kumar | U23AI082 |
-| Team Member | Tanu Meena | U23AI076 |
-| Team Member | Hanmant Jajulwar | U23AI098 |
-
----
 
 ## 1. Project Overview
 
